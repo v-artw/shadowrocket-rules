@@ -1,0 +1,10 @@
+# 广发证券与相关直连域名
+# 建议在主配置中使用 DIRECT 策略。
+DOMAIN-KEYWORD,guangfa
+DOMAIN-SUFFIX,gf.com.cn
+DOMAIN-SUFFIX,gf.cn
+DOMAIN-SUFFIX,gffunds.com.cn
+DOMAIN-SUFFIX,gfam.com.cn
+DOMAIN-SUFFIX,bestsdwan.com
+DOMAIN-SUFFIX,gsykj.com
+DOMAIN-SUFFIX,eastmoney.com
