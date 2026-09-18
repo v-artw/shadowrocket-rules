@@ -1,0 +1,5 @@
+# 通用 Apple DNS 与区域识别相关服务
+# 建议在主配置中使用 GEM 策略，用于 Apple 服务区域识别和生成式功能判断。
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-KEYWORD,generative
+DOMAIN-KEYWORD,apple-intelligence

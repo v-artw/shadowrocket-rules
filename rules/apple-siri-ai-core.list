@@ -1,0 +1,13 @@
+# Siri AI 核心 API 与资格校验
+# 建议在主配置中使用 GEM 策略，避免 Apple Intelligence 因区域/IP 判断降级。
+DOMAIN-SUFFIX,siri.apple.com
+DOMAIN-SUFFIX,api-siri-prod.apple.com
+DOMAIN-SUFFIX,generativemodels.apple.com
+DOMAIN-SUFFIX,gsa.apple.com
+DOMAIN-SUFFIX,gs-loc.apple.com
+DOMAIN-SUFFIX,api.apple-cloudkit.com
+DOMAIN-SUFFIX,cl.apple.com
+DOMAIN-SUFFIX,cl4.apple.com
+DOMAIN-SUFFIX,apple-cloudcompute.com
+DOMAIN-SUFFIX,apple-ai.com
+DOMAIN-KEYWORD,apple-ml
