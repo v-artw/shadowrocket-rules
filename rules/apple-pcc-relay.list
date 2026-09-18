@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN,apple-relay.akamaized.net
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+DOMAIN,apple-carry-relay.cloudflare.com
 DOMAIN,mask.apple-dns.net
 DOMAIN,mask-t.apple-dns.net
 DOMAIN,mask-api.fe.apple-dns.net

@@ -1,6 +1,8 @@
 # Siri 语音、听写与搜索建议
 # 建议在主配置中使用 GEM 策略，防止 Siri 语音和搜索建议因国内 IP 降级。
+DOMAIN,seed.siri.apple.com
 DOMAIN,guzzoni.apple.com
+DOMAIN,api.smoot.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,smoot.apple.cn
 DOMAIN-SUFFIX,smooth-search.apple.com

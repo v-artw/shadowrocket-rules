@@ -1,0 +1,4 @@
+# Microsoft Copilot 与相关 AI 服务
+# 建议在主配置中使用 GEM 策略。
+DOMAIN,copilot.microsoft.com
+DOMAIN,copilot.bing.com
