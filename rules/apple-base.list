@@ -1,0 +1,5 @@
+# Apple 基础服务与静态资源
+# 建议在主配置中使用 GEM 策略。
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,apps.mzstatic.com

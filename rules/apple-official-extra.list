@@ -1,0 +1,19 @@
+# Apple 官方网络要求补充项
+# 建议在主配置中使用 GEM 策略，覆盖账号、iCloud、推送、DNS 与安全浏览等辅助服务。
+DOMAIN-SUFFIX,account.apple.com
+DOMAIN-SUFFIX,appleid.cdn-apple.com
+DOMAIN-SUFFIX,idmsa.apple.com
+DOMAIN-SUFFIX,apple-livephotoskit.com
+DOMAIN-SUFFIX,gc.apple.com
+DOMAIN-SUFFIX,icloud.apple.com
+DOMAIN-SUFFIX,iwork.apple.com
+DOMAIN-SUFFIX,apzones.com
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN,probe.icloud.com
+DOMAIN,pong.icloud.com
+DOMAIN,metrics.icloud.com
+DOMAIN,doh.dns.apple.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN,apple-native-relay.apple.com
+DOMAIN-SUFFIX,safebrowsing.apple
+DOMAIN-SUFFIX,appldnld.apple.com.edgesuite.net

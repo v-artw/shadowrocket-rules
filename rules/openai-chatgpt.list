@@ -1,0 +1,7 @@
+# ChatGPT 与 OpenAI 服务规则
+# 建议在主配置中使用 GEM 策略，用于 Siri 外部 AI 引擎联动和 ChatGPT 访问。
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN,auth0.openai.com

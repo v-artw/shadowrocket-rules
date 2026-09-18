@@ -1,0 +1,14 @@
+# Private Cloud Compute 与 Apple Private Relay 相关服务
+# 建议在主配置中使用 GEM 策略，保障 Apple AI 云端请求与隐私中继连通性。
+DOMAIN-SUFFIX,privatecloudcompute.com
+DOMAIN-SUFFIX,pcc.apple.com
+DOMAIN-SUFFIX,gateway.icloud.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.akamaized.net
+DOMAIN,mask-api.fe2.apple-dns.net
+DOMAIN,cp4.cloudflare.com
+DOMAIN-SUFFIX,mask.icloud.com
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask-api.icloud.com

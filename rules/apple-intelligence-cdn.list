@@ -1,0 +1,11 @@
+# Apple Intelligence 模型下载、系统更新 CDN 与 Apple 服务兜底
+# 建议在主配置中使用 GEM 策略；如下载速度异常，可单独调整本文件对应策略。
+DOMAIN-SUFFIX,swcdn.apple.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,updates-http.cdn-apple.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.cn
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-mapkit.com

@@ -1,0 +1,13 @@
+# App Store 与 iTunes storefront 兼容性规则
+# 建议在主配置中使用 DIRECT 策略，减少商店访问、下载和购买异常。
+DOMAIN-SUFFIX,bag.itunes.apple.com
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,itunes-apple.com
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,phobos.apple.com
+DOMAIN-SUFFIX,pancake.apple.com
+DOMAIN,buy.itunes.apple.com
+DOMAIN,se.itunes.apple.com
+DOMAIN,su.itunes.apple.com
+DOMAIN-SUFFIX,mzstatic.com
