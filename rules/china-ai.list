@@ -1,0 +1,28 @@
+# 国产大模型与国内 AI 服务
+# 建议在主配置中使用 DIRECT 策略。
+DOMAIN-SUFFIX,qwen.ai
+DOMAIN-SUFFIX,qwen.com
+DOMAIN-SUFFIX,tongyi.com
+DOMAIN-SUFFIX,dashscope.aliyuncs.com
+DOMAIN-SUFFIX,modelstudio.console.aliyun.com
+DOMAIN-SUFFIX,zhipuai.cn
+DOMAIN-SUFFIX,bigmodel.cn
+DOMAIN-SUFFIX,chatglm.cn
+DOMAIN-SUFFIX,kimi.moonshot.cn
+DOMAIN-SUFFIX,moonshot.cn
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,deepseek.cn
+DOMAIN-SUFFIX,volcengine.com
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,volccdn.com
+DOMAIN-SUFFIX,byteplus.com
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,coze.cn
+DOMAIN-SUFFIX,baichuan-ai.com
+DOMAIN-SUFFIX,baichuan-ai.com.cn
+DOMAIN-SUFFIX,minimax.chat
+DOMAIN-SUFFIX,minimaxi.com
+DOMAIN-SUFFIX,sensetime.com
+DOMAIN-SUFFIX,sensecore.cn
+DOMAIN-SUFFIX,xfyun.cn
+DOMAIN-SUFFIX,sparkdesk.cn
