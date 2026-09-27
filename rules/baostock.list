@@ -1,0 +1,3 @@
+# BaoStock 股票数据服务
+# 建议在主配置中使用 DIRECT 策略。
+DOMAIN-SUFFIX,baostock.com
