@@ -1,3 +1,5 @@
-# BaoStock 股票数据服务
+# BaoStock 股票数据服务（公共与 VIP API 使用 TCP/10030）
 # 建议在主配置中使用 DIRECT 策略。
 DOMAIN-SUFFIX,baostock.com
+IP-CIDR,114.94.20.42/32,no-resolve
+IP-CIDR,114.94.20.43/32,no-resolve
